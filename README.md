@@ -29,13 +29,13 @@ The solutions are cleanly structured by **topic** and sub-categorised by **diffi
 
 | Topic | Total | Easy 🟢 | Medium 🟡 | Hard 🔴 |
 | :--- | :---: | :---: | :---: | :---: |
-| **Arrays & Hashing** | 1 | 1 | 0 | 0 |
-| **Two Pointers** | 0 | 0 | 0 | 0 |
+| **Arrays & Hashing** | 2 | 2 | 0 | 0 |
+| **Two Pointers** | 2 | 1 | 1 | 0 |
 | **Sliding Window** | 0 | 0 | 0 | 0 |
 | **Stack** | 0 | 0 | 0 | 0 |
 | **Trees & Graphs** | 0 | 0 | 0 | 0 |
 | **Dynamic Programming** | 0 | 0 | 0 | 0 |
-| **Total** | **1** | **1** | **0** | **0** |
+| **Total** | **4** | **3** | **1** | **0** |
 
 ---
 
