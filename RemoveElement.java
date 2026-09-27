@@ -1,4 +1,4 @@
-public class Problem2 {
+public class RemoveElement {
     public int removeElement(int[] nums, int val) {
         int index = 0;
 

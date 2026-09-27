@@ -1,4 +1,4 @@
-class Problem3  {
+class SumOfMultiples  {
     public int sumOfMultiples(int n) {
         int TotalSum = 0;
 
