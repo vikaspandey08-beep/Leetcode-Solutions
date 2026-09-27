@@ -1,3 +1,5 @@
+// Leetcode Problem no : 2652
+
 class SumOfMultiples  {
     public int sumOfMultiples(int n) {
         int TotalSum = 0;
