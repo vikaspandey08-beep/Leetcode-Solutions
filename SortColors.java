@@ -8,11 +8,11 @@ class SortColors {
 
      for(int i = 0; i < nums.length; i++){
         if(nums[i] == 0){
-           zerocount ++ ;
+           zerocount ++ ;  // returns total zero count
         } else if(nums[i] == 1){
-             onecount ++ ;
+             onecount ++ ; // returns total one count 
         } else if(nums[i] == 2){
-             twocount ++ ;
+             twocount ++ ; // returns total two count 
         }
      }
 
