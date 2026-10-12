@@ -1,4 +1,4 @@
-// Leetcode Problem No : 88
+// Leetcode Problem No : 189
 
 class RotateArray {
     public void rotate(int[] nums, int k) {
