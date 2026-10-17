@@ -1,4 +1,4 @@
-// Leetcode problem No : 67
+// Leetcode problem No : 067
 
 import java.math.BigInteger;
 class AddBinary {
