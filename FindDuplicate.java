@@ -1,4 +1,4 @@
-// Leetcode Problem No 287 :
+// Leetcode Problem No : 287 
 
 class FindDuplicate {
     public int findDuplicate(int[] nums) {
