@@ -1,4 +1,4 @@
-// Leetcode Problem No : 330
+// Leetcode Problemn No : 330
 
 class MoveZeroes {
     public void moveZeroes(int[] nums) {
