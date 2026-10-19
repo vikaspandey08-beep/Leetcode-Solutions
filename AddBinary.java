@@ -8,6 +8,4 @@ class AddBinary {
 
         BigInteger sum = num1.add(num2);
 
-        return sum.toString(2);
-    }
-}
+ 
