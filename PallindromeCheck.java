@@ -1,4 +1,4 @@
-// Leetcode Problem no : 9
+// Leetcode Problem no : 09
 
 class PallindromeCheck {
     public boolean isPalindrome(int x) {
