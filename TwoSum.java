@@ -1,4 +1,4 @@
-// Leetcode Problem No : 1
+// Leetcode Problem No : 01
 
 public class TwoSum {
     public int[] twoSum(int[] nums, int target) {
